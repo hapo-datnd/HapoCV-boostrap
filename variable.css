@@ -1,0 +1,17 @@
+@font-face {
+  font-family: Poppins-h1;
+  src: url("font/Poppins-Bold.otf"); }
+@font-face {
+  font-family: Poppins;
+  src: url("font/Poppins-ExtraLight.otf"); }
+@font-face {
+  font-family: Poppins-language;
+  src: url("font/Poppins-Thin.otf"); }
+@font-face {
+  font-family: Poppins-Regular;
+  src: url("font/Poppins-Regular.otf"); }
+@font-face {
+  font-family: Poppins-Medium;
+  src: url("font/Poppins-Medium.otf"); }
+
+/*# sourceMappingURL=variable.css.map */
