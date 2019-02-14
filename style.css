@@ -442,7 +442,7 @@ svg text {
 .main-3-box {
   width: 450px;
   border: 0.5px #FFFFFF solid;
-  padding: 10px 8px 11px 18px; }
+  padding: 10px 18px 11px 8px; }
   .main-3-box .year {
     width: auto;
     border-bottom: 1px #FFFFFF solid; }
