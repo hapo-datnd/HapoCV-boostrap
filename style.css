@@ -621,7 +621,7 @@ img {
     border: 4px #FFFFFF solid;
     float: left; }
   .slide span {
-    font: normal normal 80px/normal Port Lligat Sans;
+    font: normal normal 80px/normal 'PortLligatSans';
     color: #FFFFFF; }
   .slide .p3 {
     width: 7px;
