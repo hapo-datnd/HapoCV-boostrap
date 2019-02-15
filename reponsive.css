@@ -15,7 +15,12 @@
     font-size: 20px; }
 
   .bottom-left-header {
-    margin-top: 48px; } }
+    margin-top: 48px; }
+
+  .slide {
+    display: flex !important;
+    justify-content: center;
+    align-items: center; } }
 @media only screen and (min-width: 545px) and (max-width: 768px) {
   .container {
     padding: 0px 15px; }
