@@ -116,6 +116,9 @@ button {
   button i {
     margin-left: 6px; }
 
+header {
+  box-sizing: border-box; }
+
 button:hover {
   cursor: pointer;
   opacity: 0.8; }
@@ -124,7 +127,8 @@ left-header {
   width: 50%;
   box-sizing: border-box;
   background-image: url("image/ava.png");
-  background-size: 100% 100%; }
+  background-size: 100% 100%;
+  height: 100%; }
   left-header .language {
     display: none; }
   left-header .title-header {
@@ -153,6 +157,7 @@ left-header {
     box-sizing: border-box; }
 
 right-header {
+  height: 100%;
   width: 50%;
   background-color: #242581;
   box-sizing: border-box;
@@ -441,8 +446,8 @@ svg text {
     width: 8px; }
   .main-3 .main-3-center {
     width: 50px;
-    height: 1px;
-    border-bottom: 1px #FFFFFF dotted; }
+    height: 2px;
+    border-bottom: 1px #FFFFFF dashed; }
 
 .main-3-1 {
   margin-top: 0px; }
