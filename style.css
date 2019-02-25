@@ -127,8 +127,7 @@ left-header {
   width: 50%;
   box-sizing: border-box;
   background-image: url("image/ava.png");
-  background-size: 100% 100%;
-  height: 100%; }
+  background-size: 100% 100%; }
   left-header .language {
     display: none; }
   left-header .title-header {
@@ -157,7 +156,6 @@ left-header {
     box-sizing: border-box; }
 
 right-header {
-  height: 100%;
   width: 50%;
   background-color: #242581;
   box-sizing: border-box;
