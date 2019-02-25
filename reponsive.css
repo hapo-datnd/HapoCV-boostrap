@@ -205,7 +205,7 @@
     i {
       font-size: 10px; }
     right-header .personal-info {
-      width: 100%; }
+      width: 100% !important; }
     right-header .right-header-button {
       padding-right: 0px; }
 
@@ -305,13 +305,15 @@
     width: 119px;
     height: 112px; }
 
-  .footer-top .before:after {
-    width: 45px; }
-  .footer-top .behind:after {
-    width: 30px; }
-  .footer-top .row {
-    margin-left: -15px;
-    margin-right: -15px; }
+  .footer-top {
+    padding: 35px 15px; }
+    .footer-top .before:after {
+      width: 45px; }
+    .footer-top .behind:after {
+      width: 30px; }
+    .footer-top .row {
+      margin-left: -15px;
+      margin-right: -15px; }
 
   .slide {
     padding: 0px; }
@@ -324,11 +326,11 @@
     padding: 0px; }
 
   .prev {
-    left: 60px;
+    left: 30px;
     top: 25%; }
 
   .next {
-    right: 64px;
+    right: 34px;
     top: 25%; }
 
   .slide

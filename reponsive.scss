@@ -43,6 +43,8 @@
     margin: 0px;
   }
 
+  header {
+  }
   left-header {
     background-size: cover;
     background-position: center;
@@ -314,7 +316,7 @@
     }
 
     .personal-info {
-      width: 100%;
+      width: 100%!important;
     }
 
     .right-header-button {
@@ -495,6 +497,8 @@
       margin-left: -15px;
       margin-right: -15px;
     }
+
+    padding: 35px 15px;
   }
 
   .slide {
@@ -510,12 +514,12 @@
   }
 
   .prev {
-    left: 60px;
+    left: 30px;
     top: 25%;
   }
 
   .next {
-    right: 64px;
+    right: 34px;
     top: 25%;
   }
 
