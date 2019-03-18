@@ -280,7 +280,8 @@
       width: 100%;
       padding-left: 0px;
       margin-left: 0px;
-      justify-content: center; }
+      justify-content: center;
+      margin-top: 15px; }
 
   .content-4 .grid-container {
     display: grid;
